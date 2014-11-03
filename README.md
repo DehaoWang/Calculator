@@ -1,7 +1,6 @@
 Calculator
 ==========
 
-Simple calculator in Java
+Simple calculator in Java using MVC architecture.
 
-This is a practice using MVC architecture.
 
